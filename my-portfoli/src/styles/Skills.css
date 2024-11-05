@@ -1,0 +1,20 @@
+.skills {
+    padding: 50px;
+    background-color: #2e2e2e;
+    color: white;
+  }
+  
+  .skill {
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+  }
+  
+  .skill span {
+    width: 100px;
+  }
+  
+  .skill-bar {
+    height: 10px;
+    background-color: #f5a623;
+  }

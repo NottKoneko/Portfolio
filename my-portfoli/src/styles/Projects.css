@@ -1,0 +1,17 @@
+.projects {
+    padding: 50px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .project-list {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .project-card {
+    background: #444;
+    padding: 20px;
+    border-radius: 8px;
+    width: 250px;
+  }
